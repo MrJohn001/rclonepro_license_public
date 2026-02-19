@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-02-19T02:54:01.303442Z",
+  "generated_at": "2026-02-19T02:54:24.632174Z",
   "entries": [
     {
       "email_hash": "973dfe463ec85785f5f95af5ba3906eedb2d931c24e69824a89ea65dba4e813b",
-      "device_hash": "",
+      "device_hash": "a05964c7f4b3ff22e62d6e04018e9e77e97f9f52292e2e74c6ebd6989d77c3ed",
       "expires": "2026-03-21",
-      "revoked": true,
-      "sig": "F8p5CurXFl9sCSMfSn60LIddrdvdtbM8pIXdHmERmVQBnjPvNypwf3beKKB48FCW7CRs2pvwDpKBesGqBGQlCw=="
+      "revoked": false,
+      "sig": "Gm8kjuwc7if5GBtfyHx1omjvuStWwaXkRapGNFCOeZcQoaHgjNHOVXCeS1ZlsBhlIZ+/HxGLTJ/ei1zmO/7NCA=="
     }
   ]
 }
