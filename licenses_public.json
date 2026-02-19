@@ -1,5 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-02-19T02:21:46.440432Z",
-  "entries": []
+  "generated_at": "2026-02-19T02:25:43.669270Z",
+  "entries": [
+    {
+      "email_hash": "973dfe463ec85785f5f95af5ba3906eedb2d931c24e69824a89ea65dba4e813b",
+      "device_hash": "a05964c7f4b3ff22e62d6e04018e9e77e97f9f52292e2e74c6ebd6989d77c3ed",
+      "expires": "2026-03-21",
+      "revoked": false,
+      "sig": "Gm8kjuwc7if5GBtfyHx1omjvuStWwaXkRapGNFCOeZcQoaHgjNHOVXCeS1ZlsBhlIZ+/HxGLTJ/ei1zmO/7NCA=="
+    }
+  ]
 }
