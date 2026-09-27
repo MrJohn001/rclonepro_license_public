@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-02-19T02:54:24.632174Z",
+  "generated_at": "2026-09-27T07:10:28.414451Z",
   "entries": [
     {
       "email_hash": "973dfe463ec85785f5f95af5ba3906eedb2d931c24e69824a89ea65dba4e813b",
       "device_hash": "a05964c7f4b3ff22e62d6e04018e9e77e97f9f52292e2e74c6ebd6989d77c3ed",
-      "expires": "2026-03-21",
+      "expires": "2099-12-31",
       "revoked": false,
-      "sig": "Gm8kjuwc7if5GBtfyHx1omjvuStWwaXkRapGNFCOeZcQoaHgjNHOVXCeS1ZlsBhlIZ+/HxGLTJ/ei1zmO/7NCA=="
+      "sig": "wKaCOJNFhStHvQGoWFDyKK9gIGvwqrU/k/YKaiLItc1TXhGuH7xu69rn7Wqk+jeTYcQO8cWb2B8K4FSJGO+EAg=="
     }
   ]
 }
